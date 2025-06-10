@@ -1,4 +1,4 @@
-Data Analyst Internship - Task 6: Sales Trend Analysis Using Aggregations
+Sales Trend Analysis Using Aggregations
 Objective
 The primary objective of this task was to analyze monthly revenue and order volume to understand sales trends. This involved using SQL aggregation functions and grouping data by time periods.
 
